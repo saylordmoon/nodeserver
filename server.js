@@ -1,5 +1,5 @@
 var net = require('net');
-var S = require('string');
+var S = require('./string.min.js');
 
 var clients = [];
 var total = 0;
